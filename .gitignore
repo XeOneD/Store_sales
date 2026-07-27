@@ -1,0 +1,4 @@
+/data
+/mlruns
+/model_input
+mlflow.db
